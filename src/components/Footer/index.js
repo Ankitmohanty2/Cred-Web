@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className='flex absolute-center footer'>Made with ❤️ by Danish</div>
+    <div className='flex absolute-center footer'>Made with ❤️ by Ankit</div>
   )
 }
 
